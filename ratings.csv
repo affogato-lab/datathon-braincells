@@ -1,510 +1,457 @@
-Resort,Week,Year,Rating
-Charlotte Pass,week1,2017,5.0
-Charlotte Pass,week1,2019,5.0
-Charlotte Pass,week1,2025,5.0
-Charlotte Pass,week10,2020,5.0
-Charlotte Pass,week10,2021,5.0
-Charlotte Pass,week10,2022,3.5
-Charlotte Pass,week10,2025,5.0
-Charlotte Pass,week11,2018,1.0
-Charlotte Pass,week11,2022,2.0
-Charlotte Pass,week12,2018,1.0
-Charlotte Pass,week12,2022,5.0
-Charlotte Pass,week13,2021,1.0
-Charlotte Pass,week13,2024,5.0
-Charlotte Pass,week2,2019,5.0
-Charlotte Pass,week2,2025,4.0
-Charlotte Pass,week3,2022,4.0
-Charlotte Pass,week3,2024,5.0
-Charlotte Pass,week4,2020,1.0
-Charlotte Pass,week5,2024,4.0
-Charlotte Pass,week6,2019,2.0
-Charlotte Pass,week6,2021,5.0
-Charlotte Pass,week6,2023,3.0
-Charlotte Pass,week7,2023,5.0
-Charlotte Pass,week7,2025,3.0
-Charlotte Pass,week8,2020,1.0
-Charlotte Pass,week8,2021,5.0
-Charlotte Pass,week8,2022,5.0
-Charlotte Pass,week9,2019,5.0
-Charlotte Pass,week9,2020,5.0
-Charlotte Pass,week9,2025,5.0
-Mount Buller,week1,2024,5.0
-Mount Buller,week1,2025,5.0
-Mount Buller,week10,2024,4.833333333333333
-Mount Buller,week10,2025,4.777777777777778
-Mount Buller,week11,2023,4.0
-Mount Buller,week11,2024,3.375
-Mount Buller,week11,2025,4.769230769230769
-Mount Buller,week12,2023,5.0
-Mount Buller,week12,2024,3.5
-Mount Buller,week12,2025,4.75
-Mount Buller,week13,2023,5.0
-Mount Buller,week13,2024,4.0
-Mount Buller,week15,2023,5.0
-Mount Buller,week2,2025,5.0
-Mount Buller,week3,2024,5.0
-Mount Buller,week3,2025,4.833333333333333
-Mount Buller,week4,2023,5.0
-Mount Buller,week4,2024,4.111111111111111
-Mount Buller,week4,2025,4.25
-Mount Buller,week5,2023,4.0
-Mount Buller,week5,2024,3.857142857142857
-Mount Buller,week5,2025,4.818181818181818
-Mount Buller,week6,2024,4.583333333333333
-Mount Buller,week6,2025,3.5
-Mount Buller,week7,2023,3.3333333333333335
-Mount Buller,week7,2024,4.3
-Mount Buller,week7,2025,5.0
-Mount Buller,week8,2023,3.0
-Mount Buller,week8,2024,4.2
-Mount Buller,week8,2025,5.0
-Mount Buller,week9,2023,3.0
-Mount Buller,week9,2024,4.818181818181818
-Mount Buller,week9,2025,4.888888888888889
-Mount Hoham,week1,2017,4.5
-Mount Hoham,week1,2018,4.666666666666667
-Mount Hoham,week1,2019,4.333333333333333
-Mount Hoham,week1,2021,5.0
-Mount Hoham,week1,2022,4.8
-Mount Hoham,week1,2023,3.0
-Mount Hoham,week1,2024,5.0
-Mount Hoham,week1,2025,4.8
-Mount Hoham,week10,2018,4.833333333333333
-Mount Hoham,week10,2019,3.4
-Mount Hoham,week10,2020,4.0
-Mount Hoham,week10,2021,5.0
-Mount Hoham,week10,2022,4.333333333333333
-Mount Hoham,week10,2023,5.0
-Mount Hoham,week10,2024,4.0
-Mount Hoham,week10,2025,3.6666666666666665
-Mount Hoham,week11,2018,4.333333333333333
-Mount Hoham,week11,2019,3.0
-Mount Hoham,week11,2020,5.0
-Mount Hoham,week11,2022,5.0
-Mount Hoham,week11,2023,4.6
-Mount Hoham,week11,2024,5.0
-Mount Hoham,week11,2025,5.0
-Mount Hoham,week12,2018,4.833333333333333
-Mount Hoham,week12,2019,4.5
-Mount Hoham,week12,2021,5.0
-Mount Hoham,week12,2022,5.0
-Mount Hoham,week12,2023,5.0
-Mount Hoham,week12,2024,5.0
-Mount Hoham,week12,2025,5.0
-Mount Hoham,week13,2018,4.75
-Mount Hoham,week13,2019,5.0
-Mount Hoham,week13,2022,5.0
-Mount Hoham,week13,2023,5.0
-Mount Hoham,week13,2024,5.0
-Mount Hoham,week14,2018,5.0
-Mount Hoham,week14,2019,4.666666666666667
-Mount Hoham,week14,2020,5.0
-Mount Hoham,week14,2021,5.0
-Mount Hoham,week14,2022,5.0
-Mount Hoham,week14,2023,5.0
-Mount Hoham,week14,2024,5.0
-Mount Hoham,week15,2018,4.4
-Mount Hoham,week15,2022,5.0
-Mount Hoham,week15,2023,4.5
-Mount Hoham,week15,2024,5.0
-Mount Hoham,week2,2019,5.0
-Mount Hoham,week2,2020,5.0
-Mount Hoham,week2,2021,5.0
-Mount Hoham,week2,2022,5.0
-Mount Hoham,week2,2023,5.0
-Mount Hoham,week2,2024,5.0
-Mount Hoham,week2,2025,5.0
-Mount Hoham,week3,2017,2.0
-Mount Hoham,week3,2018,4.333333333333333
-Mount Hoham,week3,2019,3.6666666666666665
-Mount Hoham,week3,2021,4.0
-Mount Hoham,week3,2022,5.0
-Mount Hoham,week3,2023,4.333333333333333
-Mount Hoham,week3,2024,5.0
-Mount Hoham,week3,2025,3.0
-Mount Hoham,week4,2018,5.0
-Mount Hoham,week4,2019,1.0
-Mount Hoham,week4,2020,5.0
-Mount Hoham,week4,2021,4.666666666666667
-Mount Hoham,week4,2022,4.8
-Mount Hoham,week4,2023,3.0
-Mount Hoham,week4,2024,5.0
-Mount Hoham,week4,2025,5.0
-Mount Hoham,week5,2017,4.5
-Mount Hoham,week5,2018,5.0
-Mount Hoham,week5,2019,3.375
-Mount Hoham,week5,2021,5.0
-Mount Hoham,week5,2022,4.666666666666667
-Mount Hoham,week5,2023,4.333333333333333
-Mount Hoham,week5,2024,4.375
-Mount Hoham,week5,2025,5.0
-Mount Hoham,week6,2017,5.0
-Mount Hoham,week6,2018,5.0
-Mount Hoham,week6,2019,4.75
-Mount Hoham,week6,2020,5.0
-Mount Hoham,week6,2021,5.0
-Mount Hoham,week6,2022,5.0
-Mount Hoham,week6,2023,5.0
-Mount Hoham,week6,2024,4.8
-Mount Hoham,week6,2025,5.0
-Mount Hoham,week7,2018,4.333333333333333
-Mount Hoham,week7,2019,5.0
-Mount Hoham,week7,2021,5.0
-Mount Hoham,week7,2022,5.0
-Mount Hoham,week7,2023,5.0
-Mount Hoham,week7,2024,5.0
-Mount Hoham,week7,2025,5.0
-Mount Hoham,week8,2017,5.0
-Mount Hoham,week8,2018,5.0
-Mount Hoham,week8,2019,4.75
-Mount Hoham,week8,2021,4.0
-Mount Hoham,week8,2022,4.333333333333333
-Mount Hoham,week8,2023,4.2
-Mount Hoham,week8,2024,4.0
-Mount Hoham,week8,2025,4.375
-Mount Hoham,week9,2017,5.0
-Mount Hoham,week9,2018,5.0
-Mount Hoham,week9,2019,5.0
-Mount Hoham,week9,2020,5.0
-Mount Hoham,week9,2021,5.0
-Mount Hoham,week9,2022,3.3333333333333335
-Mount Hoham,week9,2023,5.0
-Mount Hoham,week9,2024,5.0
-Mount Hoham,week9,2025,4.636363636363637
-Mount Stirling,week1,2020,5.0
-Mount Stirling,week1,2025,5.0
-Mount Stirling,week10,2025,4.5
-Mount Stirling,week11,2019,4.75
-Mount Stirling,week11,2025,5.0
-Mount Stirling,week14,2022,1.0
-Mount Stirling,week2,2019,4.0
-Mount Stirling,week2,2023,2.0
-Mount Stirling,week2,2025,4.0
-Mount Stirling,week5,2019,5.0
-Mount Stirling,week5,2021,5.0
-Mount Stirling,week5,2023,5.0
-Mount Stirling,week6,2017,5.0
-Mount Stirling,week6,2020,5.0
-Mount Stirling,week6,2022,5.0
-Mount Stirling,week6,2025,1.0
-Mount Stirling,week7,2018,5.0
-Mount Stirling,week7,2023,1.0
-Mount Stirling,week8,2021,5.0
-Mount Stirling,week9,2017,5.0
-Mount Stirling,week9,2025,5.0
-Perisher,week1,2019,4.553191489361702
-Perisher,week1,2020,5.0
-Perisher,week1,2021,4.516129032258065
-Perisher,week1,2022,4.777777777777778
-Perisher,week1,2023,4.117647058823529
-Perisher,week1,2024,4.2
-Perisher,week1,2025,4.666666666666667
-Perisher,week10,2018,4.543307086614173
-Perisher,week10,2019,4.405063291139241
-Perisher,week10,2020,4.681818181818182
-Perisher,week10,2021,4.2727272727272725
-Perisher,week10,2022,4.32258064516129
-Perisher,week10,2023,4.147058823529412
-Perisher,week10,2024,4.03030303030303
-Perisher,week10,2025,4.125
-Perisher,week11,2018,4.407766990291262
-Perisher,week11,2019,4.410256410256411
-Perisher,week11,2020,4.655172413793103
-Perisher,week11,2021,4.0
-Perisher,week11,2022,4.256410256410256
-Perisher,week11,2023,4.580645161290323
-Perisher,week11,2024,3.909090909090909
-Perisher,week11,2025,4.115384615384615
-Perisher,week12,2018,4.5
-Perisher,week12,2019,4.596774193548387
-Perisher,week12,2020,4.444444444444445
-Perisher,week12,2021,4.666666666666667
-Perisher,week12,2022,4.166666666666667
-Perisher,week12,2023,4.142857142857143
-Perisher,week12,2024,4.714285714285714
-Perisher,week12,2025,4.25
-Perisher,week13,2018,4.2560975609756095
-Perisher,week13,2019,4.7164179104477615
-Perisher,week13,2020,4.428571428571429
-Perisher,week13,2021,5.0
-Perisher,week13,2022,4.5
-Perisher,week13,2023,4.4
-Perisher,week13,2024,4.4
-Perisher,week14,2018,4.628571428571429
-Perisher,week14,2019,4.760869565217392
-Perisher,week14,2020,4.363636363636363
-Perisher,week14,2022,4.521739130434782
-Perisher,week14,2023,4.363636363636363
-Perisher,week14,2024,4.8
-Perisher,week15,2018,4.507936507936508
-Perisher,week15,2019,4.725
-Perisher,week15,2020,5.0
-Perisher,week15,2022,4.5
-Perisher,week15,2023,4.875
-Perisher,week15,2024,4.6
-Perisher,week2,2019,4.485714285714286
-Perisher,week2,2020,4.2
-Perisher,week2,2021,4.75
-Perisher,week2,2022,4.25
-Perisher,week2,2023,4.411764705882353
-Perisher,week2,2024,3.4
-Perisher,week2,2025,4.7
-Perisher,week3,2019,4.387096774193548
-Perisher,week3,2020,3.888888888888889
-Perisher,week3,2021,4.620689655172414
-Perisher,week3,2022,4.576923076923077
-Perisher,week3,2023,4.085714285714285
-Perisher,week3,2024,4.75
-Perisher,week3,2025,4.235294117647059
-Perisher,week4,2018,4.384615384615385
-Perisher,week4,2019,4.542857142857143
-Perisher,week4,2020,4.571428571428571
-Perisher,week4,2021,4.526315789473684
-Perisher,week4,2022,4.59375
-Perisher,week4,2023,4.0625
-Perisher,week4,2024,4.454545454545454
-Perisher,week4,2025,4.606060606060606
-Perisher,week5,2018,4.36734693877551
-Perisher,week5,2019,4.319148936170213
-Perisher,week5,2020,4.151515151515151
-Perisher,week5,2021,4.55
-Perisher,week5,2022,4.591836734693878
-Perisher,week5,2023,4.024390243902439
-Perisher,week5,2024,3.9583333333333335
-Perisher,week5,2025,4.222222222222222
-Perisher,week6,2018,4.386792452830188
-Perisher,week6,2019,4.551282051282051
-Perisher,week6,2020,4.425
-Perisher,week6,2021,4.4
-Perisher,week6,2022,4.489795918367347
-Perisher,week6,2023,4.434782608695652
-Perisher,week6,2024,4.138888888888889
-Perisher,week6,2025,4.368421052631579
-Perisher,week7,2018,4.537037037037037
-Perisher,week7,2019,4.554054054054054
-Perisher,week7,2020,4.633333333333334
-Perisher,week7,2021,4.2631578947368425
-Perisher,week7,2022,4.555555555555555
-Perisher,week7,2023,4.361111111111111
-Perisher,week7,2024,4.28125
-Perisher,week7,2025,4.407407407407407
-Perisher,week8,2018,4.5390625
-Perisher,week8,2019,4.468354430379747
-Perisher,week8,2020,4.67741935483871
-Perisher,week8,2021,4.555555555555555
-Perisher,week8,2022,4.4186046511627906
-Perisher,week8,2023,4.258064516129032
-Perisher,week8,2024,4.666666666666667
-Perisher,week8,2025,4.625
-Perisher,week9,2018,4.330188679245283
-Perisher,week9,2019,4.4625
-Perisher,week9,2020,4.269230769230769
-Perisher,week9,2021,2.8333333333333335
-Perisher,week9,2022,4.230769230769231
-Perisher,week9,2023,4.517241379310345
-Perisher,week9,2024,4.424242424242424
-Perisher,week9,2025,4.413793103448276
-Selwyn,week1,2015,5.0
-Selwyn,week1,2018,5.0
-Selwyn,week1,2019,3.142857142857143
-Selwyn,week1,2020,3.0
-Selwyn,week1,2023,5.0
-Selwyn,week1,2025,5.0
-Selwyn,week10,2016,5.0
-Selwyn,week10,2017,3.0
-Selwyn,week10,2018,4.173913043478261
-Selwyn,week10,2019,3.6363636363636362
-Selwyn,week10,2023,3.0
-Selwyn,week10,2024,4.875
-Selwyn,week10,2025,3.6666666666666665
-Selwyn,week11,2016,4.0
-Selwyn,week11,2017,4.0
-Selwyn,week11,2018,4.090909090909091
-Selwyn,week11,2019,4.555555555555555
-Selwyn,week11,2023,5.0
-Selwyn,week11,2024,2.3333333333333335
-Selwyn,week11,2025,4.0
-Selwyn,week12,2016,4.4
-Selwyn,week12,2017,2.5
-Selwyn,week12,2018,4.1
-Selwyn,week12,2019,4.181818181818182
-Selwyn,week12,2023,4.0
-Selwyn,week12,2024,3.0
-Selwyn,week12,2025,4.5
-Selwyn,week13,2013,4.0
-Selwyn,week13,2018,4.3
-Selwyn,week13,2019,4.75
-Selwyn,week13,2023,4.0
-Selwyn,week13,2024,4.5
-Selwyn,week14,2017,2.5
-Selwyn,week14,2018,4.375
-Selwyn,week14,2019,4.375
-Selwyn,week14,2020,5.0
-Selwyn,week14,2024,1.0
-Selwyn,week15,2018,4.125
-Selwyn,week15,2019,3.875
-Selwyn,week15,2023,1.0
-Selwyn,week15,2024,1.0
-Selwyn,week2,2016,5.0
-Selwyn,week2,2018,5.0
-Selwyn,week2,2019,4.0
-Selwyn,week2,2021,5.0
-Selwyn,week2,2023,1.0
-Selwyn,week2,2024,5.0
-Selwyn,week2,2025,5.0
-Selwyn,week3,2018,5.0
-Selwyn,week3,2019,4.75
-Selwyn,week3,2020,3.0
-Selwyn,week3,2021,1.0
-Selwyn,week3,2023,3.8
-Selwyn,week3,2024,5.0
-Selwyn,week3,2025,5.0
-Selwyn,week4,2016,5.0
-Selwyn,week4,2017,2.0
-Selwyn,week4,2018,3.3846153846153846
-Selwyn,week4,2019,3.888888888888889
-Selwyn,week4,2021,2.0
-Selwyn,week4,2023,4.2
-Selwyn,week4,2024,4.0
-Selwyn,week4,2025,5.0
-Selwyn,week5,2016,3.0
-Selwyn,week5,2017,3.0
-Selwyn,week5,2018,3.6666666666666665
-Selwyn,week5,2019,4.166666666666667
-Selwyn,week5,2023,2.9285714285714284
-Selwyn,week5,2024,3.7777777777777777
-Selwyn,week5,2025,2.2857142857142856
-Selwyn,week6,2011,4.0
-Selwyn,week6,2016,2.5
-Selwyn,week6,2017,1.0
-Selwyn,week6,2018,4.052631578947368
-Selwyn,week6,2019,3.4285714285714284
-Selwyn,week6,2023,2.8823529411764706
-Selwyn,week6,2024,3.857142857142857
-Selwyn,week6,2025,3.1
-Selwyn,week7,2014,4.0
-Selwyn,week7,2015,5.0
-Selwyn,week7,2016,5.0
-Selwyn,week7,2017,5.0
-Selwyn,week7,2018,3.85
-Selwyn,week7,2019,3.9473684210526314
-Selwyn,week7,2023,3.4444444444444446
-Selwyn,week7,2024,3.3076923076923075
-Selwyn,week7,2025,3.2857142857142856
-Selwyn,week8,2016,4.333333333333333
-Selwyn,week8,2017,5.0
-Selwyn,week8,2018,4.521739130434782
-Selwyn,week8,2019,4.125
-Selwyn,week8,2023,2.8333333333333335
-Selwyn,week8,2024,4.5
-Selwyn,week8,2025,3.4
-Selwyn,week9,2016,3.5
-Selwyn,week9,2017,4.0
-Selwyn,week9,2018,4.421052631578948
-Selwyn,week9,2019,4.111111111111111
-Selwyn,week9,2022,5.0
-Selwyn,week9,2023,3.75
-Selwyn,week9,2024,4.75
-Selwyn,week9,2025,3.65
-Thredbo,week1,2019,4.523809523809524
-Thredbo,week1,2020,4.0
-Thredbo,week1,2021,4.75
-Thredbo,week1,2022,4.8
-Thredbo,week1,2023,4.5
-Thredbo,week1,2024,4.333333333333333
-Thredbo,week1,2025,4.7
-Thredbo,week10,2019,4.368421052631579
-Thredbo,week10,2020,4.043478260869565
-Thredbo,week10,2021,4.75
-Thredbo,week10,2022,4.6
-Thredbo,week10,2023,3.7333333333333334
-Thredbo,week10,2024,4.555555555555555
-Thredbo,week10,2025,4.55
-Thredbo,week11,2019,4.34375
-Thredbo,week11,2020,4.75
-Thredbo,week11,2021,5.0
-Thredbo,week11,2022,4.421052631578948
-Thredbo,week11,2023,4.428571428571429
-Thredbo,week11,2024,3.909090909090909
-Thredbo,week11,2025,4.357142857142857
-Thredbo,week12,2019,4.285714285714286
-Thredbo,week12,2020,4.363636363636363
-Thredbo,week12,2021,5.0
-Thredbo,week12,2022,4.5
-Thredbo,week12,2023,4.75
-Thredbo,week12,2024,4.888888888888889
-Thredbo,week12,2025,4.0
-Thredbo,week13,2019,4.425
-Thredbo,week13,2020,4.4375
-Thredbo,week13,2021,5.0
-Thredbo,week13,2022,4.2727272727272725
-Thredbo,week13,2023,4.0
-Thredbo,week13,2024,4.090909090909091
-Thredbo,week14,2019,4.607142857142857
-Thredbo,week14,2020,4.75
-Thredbo,week14,2021,5.0
-Thredbo,week14,2022,4.6923076923076925
-Thredbo,week14,2023,4.8
-Thredbo,week14,2024,4.0
-Thredbo,week15,2019,4.454545454545454
-Thredbo,week15,2020,5.0
-Thredbo,week15,2022,4.375
-Thredbo,week15,2023,3.7142857142857144
-Thredbo,week15,2024,4.5
-Thredbo,week2,2019,4.642857142857143
-Thredbo,week2,2020,5.0
-Thredbo,week2,2021,4.529411764705882
-Thredbo,week2,2022,4.833333333333333
-Thredbo,week2,2023,4.285714285714286
-Thredbo,week2,2024,4.0
-Thredbo,week2,2025,4.777777777777778
-Thredbo,week3,2019,4.428571428571429
-Thredbo,week3,2020,5.0
-Thredbo,week3,2021,4.125
-Thredbo,week3,2022,4.25
-Thredbo,week3,2023,4.333333333333333
-Thredbo,week3,2024,5.0
-Thredbo,week3,2025,5.0
-Thredbo,week4,2019,4.517241379310345
-Thredbo,week4,2020,4.714285714285714
-Thredbo,week4,2021,3.1666666666666665
-Thredbo,week4,2022,4.2
-Thredbo,week4,2023,4.333333333333333
-Thredbo,week4,2024,4.625
-Thredbo,week4,2025,4.523809523809524
-Thredbo,week5,2019,4.392857142857143
-Thredbo,week5,2020,4.230769230769231
-Thredbo,week5,2021,4.75
-Thredbo,week5,2022,4.473684210526316
-Thredbo,week5,2023,4.416666666666667
-Thredbo,week5,2024,4.090909090909091
-Thredbo,week5,2025,4.066666666666666
-Thredbo,week6,2019,4.5675675675675675
-Thredbo,week6,2020,4.666666666666667
-Thredbo,week6,2021,4.181818181818182
-Thredbo,week6,2022,4.363636363636363
-Thredbo,week6,2023,4.32
-Thredbo,week6,2024,4.541666666666667
-Thredbo,week6,2025,4.166666666666667
-Thredbo,week7,2019,4.542857142857143
-Thredbo,week7,2020,4.24
-Thredbo,week7,2021,5.0
-Thredbo,week7,2022,4.4
-Thredbo,week7,2023,4.6
-Thredbo,week7,2024,4.523809523809524
-Thredbo,week7,2025,4.28
-Thredbo,week8,2019,4.3076923076923075
-Thredbo,week8,2020,4.041666666666667
-Thredbo,week8,2021,4.0
-Thredbo,week8,2022,4.7727272727272725
-Thredbo,week8,2023,4.428571428571429
-Thredbo,week8,2024,4.5
-Thredbo,week8,2025,4.4
-Thredbo,week9,2019,4.410256410256411
-Thredbo,week9,2020,4.5
-Thredbo,week9,2021,3.8
-Thredbo,week9,2022,4.6923076923076925
-Thredbo,week9,2023,4.625
-Thredbo,week9,2024,4.6
-Thredbo,week9,2025,4.0
+,Resort,Week,Year,Rating
+0,Charlotte Pass,week1,2017,5.0
+1,Charlotte Pass,week1,2019,5.0
+2,Charlotte Pass,week1,2025,5.0
+3,Charlotte Pass,week10,2020,5.0
+4,Charlotte Pass,week10,2021,5.0
+5,Charlotte Pass,week10,2022,3.5
+6,Charlotte Pass,week10,2025,5.0
+7,Charlotte Pass,week11,2018,1.0
+8,Charlotte Pass,week11,2022,2.0
+9,Charlotte Pass,week12,2018,1.0
+10,Charlotte Pass,week12,2022,5.0
+11,Charlotte Pass,week13,2021,1.0
+12,Charlotte Pass,week13,2024,5.0
+13,Charlotte Pass,week2,2019,5.0
+14,Charlotte Pass,week2,2025,4.0
+15,Charlotte Pass,week3,2022,4.0
+16,Charlotte Pass,week3,2024,5.0
+17,Charlotte Pass,week4,2020,1.0
+18,Charlotte Pass,week5,2024,4.0
+19,Charlotte Pass,week6,2019,2.0
+20,Charlotte Pass,week6,2021,5.0
+21,Charlotte Pass,week6,2023,3.0
+22,Charlotte Pass,week7,2023,5.0
+23,Charlotte Pass,week7,2025,3.0
+24,Charlotte Pass,week8,2020,1.0
+25,Charlotte Pass,week8,2021,5.0
+26,Charlotte Pass,week8,2022,5.0
+27,Charlotte Pass,week9,2019,5.0
+28,Charlotte Pass,week9,2020,5.0
+29,Charlotte Pass,week9,2025,5.0
+30,Mt,week1,2017,4.5
+31,Mt,week1,2018,4.666666666666667
+32,Mt,week1,2019,4.333333333333333
+33,Mt,week1,2020,5.0
+34,Mt,week1,2021,5.0
+35,Mt,week1,2022,4.8
+36,Mt,week1,2023,3.0
+37,Mt,week1,2024,5.0
+38,Mt,week1,2025,4.875
+39,Mt,week10,2018,4.833333333333333
+40,Mt,week10,2019,3.4
+41,Mt,week10,2020,4.0
+42,Mt,week10,2021,5.0
+43,Mt,week10,2022,4.333333333333333
+44,Mt,week10,2023,5.0
+45,Mt,week10,2024,4.384615384615385
+46,Mt,week10,2025,4.5
+47,Mt,week11,2018,4.333333333333333
+48,Mt,week11,2019,4.166666666666667
+49,Mt,week11,2020,5.0
+50,Mt,week11,2022,5.0
+51,Mt,week11,2023,4.5
+52,Mt,week11,2024,3.5555555555555554
+53,Mt,week11,2025,4.8
+54,Mt,week12,2018,4.833333333333333
+55,Mt,week12,2019,4.5
+56,Mt,week12,2021,5.0
+57,Mt,week12,2022,5.0
+58,Mt,week12,2023,5.0
+59,Mt,week12,2024,4.142857142857143
+60,Mt,week12,2025,4.777777777777778
+61,Mt,week13,2018,4.75
+62,Mt,week13,2019,5.0
+63,Mt,week13,2022,5.0
+64,Mt,week13,2023,5.0
+65,Mt,week13,2024,4.4
+66,Mt,week14,2018,5.0
+67,Mt,week14,2019,4.666666666666667
+68,Mt,week14,2020,5.0
+69,Mt,week14,2021,5.0
+70,Mt,week14,2022,4.0
+71,Mt,week14,2023,5.0
+72,Mt,week14,2024,5.0
+73,Mt,week15,2018,4.4
+74,Mt,week15,2022,5.0
+75,Mt,week15,2023,4.666666666666667
+76,Mt,week15,2024,5.0
+77,Mt,week2,2019,4.666666666666667
+78,Mt,week2,2020,5.0
+79,Mt,week2,2021,5.0
+80,Mt,week2,2022,5.0
+81,Mt,week2,2023,4.0
+82,Mt,week2,2024,5.0
+83,Mt,week2,2025,4.923076923076923
+84,Mt,week3,2017,2.0
+85,Mt,week3,2018,4.333333333333333
+86,Mt,week3,2019,3.6666666666666665
+87,Mt,week3,2021,4.0
+88,Mt,week3,2022,5.0
+89,Mt,week3,2023,4.333333333333333
+90,Mt,week3,2024,5.0
+91,Mt,week3,2025,4.375
+92,Mt,week4,2018,5.0
+93,Mt,week4,2019,1.0
+94,Mt,week4,2020,5.0
+95,Mt,week4,2021,4.666666666666667
+96,Mt,week4,2022,4.8
+97,Mt,week4,2023,4.428571428571429
+98,Mt,week4,2024,4.2
+99,Mt,week4,2025,4.5
+100,Mt,week5,2017,4.5
+101,Mt,week5,2018,5.0
+102,Mt,week5,2019,3.5555555555555554
+103,Mt,week5,2021,5.0
+104,Mt,week5,2022,4.666666666666667
+105,Mt,week5,2023,4.2727272727272725
+106,Mt,week5,2024,4.045454545454546
+107,Mt,week5,2025,4.9
+108,Mt,week6,2017,5.0
+109,Mt,week6,2018,5.0
+110,Mt,week6,2019,4.75
+111,Mt,week6,2020,5.0
+112,Mt,week6,2021,5.0
+113,Mt,week6,2022,5.0
+114,Mt,week6,2023,5.0
+115,Mt,week6,2024,4.647058823529412
+116,Mt,week6,2025,4.157894736842105
+117,Mt,week7,2018,4.5
+118,Mt,week7,2019,5.0
+119,Mt,week7,2021,5.0
+120,Mt,week7,2022,5.0
+121,Mt,week7,2023,4.0
+122,Mt,week7,2024,4.461538461538462
+123,Mt,week7,2025,5.0
+124,Mt,week8,2017,5.0
+125,Mt,week8,2018,5.0
+126,Mt,week8,2019,4.75
+127,Mt,week8,2021,4.333333333333333
+128,Mt,week8,2022,4.333333333333333
+129,Mt,week8,2023,4.0
+130,Mt,week8,2024,4.133333333333334
+131,Mt,week8,2025,4.705882352941177
+132,Mt,week9,2017,5.0
+133,Mt,week9,2018,5.0
+134,Mt,week9,2019,5.0
+135,Mt,week9,2020,5.0
+136,Mt,week9,2021,5.0
+137,Mt,week9,2022,3.3333333333333335
+138,Mt,week9,2023,4.2
+139,Mt,week9,2024,4.882352941176471
+140,Mt,week9,2025,4.806451612903226
+141,Perisher,week1,2019,4.553191489361702
+142,Perisher,week1,2020,5.0
+143,Perisher,week1,2021,4.516129032258065
+144,Perisher,week1,2022,4.777777777777778
+145,Perisher,week1,2023,4.117647058823529
+146,Perisher,week1,2024,4.2
+147,Perisher,week1,2025,4.666666666666667
+148,Perisher,week10,2018,4.543307086614173
+149,Perisher,week10,2019,4.405063291139241
+150,Perisher,week10,2020,4.681818181818182
+151,Perisher,week10,2021,4.2727272727272725
+152,Perisher,week10,2022,4.32258064516129
+153,Perisher,week10,2023,4.147058823529412
+154,Perisher,week10,2024,4.03030303030303
+155,Perisher,week10,2025,4.125
+156,Perisher,week11,2018,4.407766990291262
+157,Perisher,week11,2019,4.410256410256411
+158,Perisher,week11,2020,4.655172413793103
+159,Perisher,week11,2021,4.0
+160,Perisher,week11,2022,4.256410256410256
+161,Perisher,week11,2023,4.580645161290323
+162,Perisher,week11,2024,3.909090909090909
+163,Perisher,week11,2025,4.115384615384615
+164,Perisher,week12,2018,4.5
+165,Perisher,week12,2019,4.596774193548387
+166,Perisher,week12,2020,4.444444444444445
+167,Perisher,week12,2021,4.666666666666667
+168,Perisher,week12,2022,4.166666666666667
+169,Perisher,week12,2023,4.142857142857143
+170,Perisher,week12,2024,4.714285714285714
+171,Perisher,week12,2025,4.25
+172,Perisher,week13,2018,4.2560975609756095
+173,Perisher,week13,2019,4.7164179104477615
+174,Perisher,week13,2020,4.428571428571429
+175,Perisher,week13,2021,5.0
+176,Perisher,week13,2022,4.5
+177,Perisher,week13,2023,4.4
+178,Perisher,week13,2024,4.4
+179,Perisher,week14,2018,4.628571428571429
+180,Perisher,week14,2019,4.760869565217392
+181,Perisher,week14,2020,4.363636363636363
+182,Perisher,week14,2022,4.521739130434782
+183,Perisher,week14,2023,4.363636363636363
+184,Perisher,week14,2024,4.8
+185,Perisher,week15,2018,4.507936507936508
+186,Perisher,week15,2019,4.725
+187,Perisher,week15,2020,5.0
+188,Perisher,week15,2022,4.5
+189,Perisher,week15,2023,4.875
+190,Perisher,week15,2024,4.6
+191,Perisher,week2,2019,4.485714285714286
+192,Perisher,week2,2020,4.2
+193,Perisher,week2,2021,4.75
+194,Perisher,week2,2022,4.25
+195,Perisher,week2,2023,4.411764705882353
+196,Perisher,week2,2024,3.4
+197,Perisher,week2,2025,4.7
+198,Perisher,week3,2019,4.387096774193548
+199,Perisher,week3,2020,3.888888888888889
+200,Perisher,week3,2021,4.620689655172414
+201,Perisher,week3,2022,4.576923076923077
+202,Perisher,week3,2023,4.085714285714285
+203,Perisher,week3,2024,4.75
+204,Perisher,week3,2025,4.235294117647059
+205,Perisher,week4,2018,4.384615384615385
+206,Perisher,week4,2019,4.542857142857143
+207,Perisher,week4,2020,4.571428571428571
+208,Perisher,week4,2021,4.526315789473684
+209,Perisher,week4,2022,4.59375
+210,Perisher,week4,2023,4.0625
+211,Perisher,week4,2024,4.454545454545454
+212,Perisher,week4,2025,4.606060606060606
+213,Perisher,week5,2018,4.36734693877551
+214,Perisher,week5,2019,4.319148936170213
+215,Perisher,week5,2020,4.151515151515151
+216,Perisher,week5,2021,4.55
+217,Perisher,week5,2022,4.591836734693878
+218,Perisher,week5,2023,4.024390243902439
+219,Perisher,week5,2024,3.9583333333333335
+220,Perisher,week5,2025,4.222222222222222
+221,Perisher,week6,2018,4.386792452830188
+222,Perisher,week6,2019,4.551282051282051
+223,Perisher,week6,2020,4.425
+224,Perisher,week6,2021,4.4
+225,Perisher,week6,2022,4.489795918367347
+226,Perisher,week6,2023,4.434782608695652
+227,Perisher,week6,2024,4.138888888888889
+228,Perisher,week6,2025,4.368421052631579
+229,Perisher,week7,2018,4.537037037037037
+230,Perisher,week7,2019,4.554054054054054
+231,Perisher,week7,2020,4.633333333333334
+232,Perisher,week7,2021,4.2631578947368425
+233,Perisher,week7,2022,4.555555555555555
+234,Perisher,week7,2023,4.361111111111111
+235,Perisher,week7,2024,4.28125
+236,Perisher,week7,2025,4.407407407407407
+237,Perisher,week8,2018,4.5390625
+238,Perisher,week8,2019,4.468354430379747
+239,Perisher,week8,2020,4.67741935483871
+240,Perisher,week8,2021,4.555555555555555
+241,Perisher,week8,2022,4.4186046511627906
+242,Perisher,week8,2023,4.258064516129032
+243,Perisher,week8,2024,4.666666666666667
+244,Perisher,week8,2025,4.625
+245,Perisher,week9,2018,4.330188679245283
+246,Perisher,week9,2019,4.4625
+247,Perisher,week9,2020,4.269230769230769
+248,Perisher,week9,2021,2.8333333333333335
+249,Perisher,week9,2022,4.230769230769231
+250,Perisher,week9,2023,4.517241379310345
+251,Perisher,week9,2024,4.424242424242424
+252,Perisher,week9,2025,4.413793103448276
+253,Selwyn,week1,2015,5.0
+254,Selwyn,week1,2018,5.0
+255,Selwyn,week1,2019,3.142857142857143
+256,Selwyn,week1,2020,3.0
+257,Selwyn,week1,2023,5.0
+258,Selwyn,week1,2025,5.0
+259,Selwyn,week10,2016,5.0
+260,Selwyn,week10,2017,3.0
+261,Selwyn,week10,2018,4.173913043478261
+262,Selwyn,week10,2019,3.6363636363636362
+263,Selwyn,week10,2023,3.0
+264,Selwyn,week10,2024,4.875
+265,Selwyn,week10,2025,3.6666666666666665
+266,Selwyn,week11,2016,4.0
+267,Selwyn,week11,2017,4.0
+268,Selwyn,week11,2018,4.090909090909091
+269,Selwyn,week11,2019,4.555555555555555
+270,Selwyn,week11,2023,5.0
+271,Selwyn,week11,2024,2.3333333333333335
+272,Selwyn,week11,2025,4.0
+273,Selwyn,week12,2016,4.4
+274,Selwyn,week12,2017,2.5
+275,Selwyn,week12,2018,4.1
+276,Selwyn,week12,2019,4.181818181818182
+277,Selwyn,week12,2023,4.0
+278,Selwyn,week12,2024,3.0
+279,Selwyn,week12,2025,4.5
+280,Selwyn,week13,2013,4.0
+281,Selwyn,week13,2018,4.3
+282,Selwyn,week13,2019,4.75
+283,Selwyn,week13,2023,4.0
+284,Selwyn,week13,2024,4.5
+285,Selwyn,week14,2017,2.5
+286,Selwyn,week14,2018,4.375
+287,Selwyn,week14,2019,4.375
+288,Selwyn,week14,2020,5.0
+289,Selwyn,week14,2024,1.0
+290,Selwyn,week15,2018,4.125
+291,Selwyn,week15,2019,3.875
+292,Selwyn,week15,2023,1.0
+293,Selwyn,week15,2024,1.0
+294,Selwyn,week2,2016,5.0
+295,Selwyn,week2,2018,5.0
+296,Selwyn,week2,2019,4.0
+297,Selwyn,week2,2021,5.0
+298,Selwyn,week2,2023,1.0
+299,Selwyn,week2,2024,5.0
+300,Selwyn,week2,2025,5.0
+301,Selwyn,week3,2018,5.0
+302,Selwyn,week3,2019,4.75
+303,Selwyn,week3,2020,3.0
+304,Selwyn,week3,2021,1.0
+305,Selwyn,week3,2023,3.8
+306,Selwyn,week3,2024,5.0
+307,Selwyn,week3,2025,5.0
+308,Selwyn,week4,2016,5.0
+309,Selwyn,week4,2017,2.0
+310,Selwyn,week4,2018,3.3846153846153846
+311,Selwyn,week4,2019,3.888888888888889
+312,Selwyn,week4,2021,2.0
+313,Selwyn,week4,2023,4.2
+314,Selwyn,week4,2024,4.0
+315,Selwyn,week4,2025,5.0
+316,Selwyn,week5,2016,3.0
+317,Selwyn,week5,2017,3.0
+318,Selwyn,week5,2018,3.6666666666666665
+319,Selwyn,week5,2019,4.166666666666667
+320,Selwyn,week5,2023,2.9285714285714284
+321,Selwyn,week5,2024,3.7777777777777777
+322,Selwyn,week5,2025,2.2857142857142856
+323,Selwyn,week6,2011,4.0
+324,Selwyn,week6,2016,2.5
+325,Selwyn,week6,2017,1.0
+326,Selwyn,week6,2018,4.052631578947368
+327,Selwyn,week6,2019,3.4285714285714284
+328,Selwyn,week6,2023,2.8823529411764706
+329,Selwyn,week6,2024,3.857142857142857
+330,Selwyn,week6,2025,3.1
+331,Selwyn,week7,2014,4.0
+332,Selwyn,week7,2015,5.0
+333,Selwyn,week7,2016,5.0
+334,Selwyn,week7,2017,5.0
+335,Selwyn,week7,2018,3.85
+336,Selwyn,week7,2019,3.9473684210526314
+337,Selwyn,week7,2023,3.4444444444444446
+338,Selwyn,week7,2024,3.3076923076923075
+339,Selwyn,week7,2025,3.2857142857142856
+340,Selwyn,week8,2016,4.333333333333333
+341,Selwyn,week8,2017,5.0
+342,Selwyn,week8,2018,4.521739130434782
+343,Selwyn,week8,2019,4.125
+344,Selwyn,week8,2023,2.8333333333333335
+345,Selwyn,week8,2024,4.5
+346,Selwyn,week8,2025,3.4
+347,Selwyn,week9,2016,3.5
+348,Selwyn,week9,2017,4.0
+349,Selwyn,week9,2018,4.421052631578948
+350,Selwyn,week9,2019,4.111111111111111
+351,Selwyn,week9,2022,5.0
+352,Selwyn,week9,2023,3.75
+353,Selwyn,week9,2024,4.75
+354,Selwyn,week9,2025,3.65
+355,Thredbo,week1,2019,4.523809523809524
+356,Thredbo,week1,2020,4.0
+357,Thredbo,week1,2021,4.75
+358,Thredbo,week1,2022,4.8
+359,Thredbo,week1,2023,4.5
+360,Thredbo,week1,2024,4.333333333333333
+361,Thredbo,week1,2025,4.7
+362,Thredbo,week10,2019,4.368421052631579
+363,Thredbo,week10,2020,4.043478260869565
+364,Thredbo,week10,2021,4.75
+365,Thredbo,week10,2022,4.6
+366,Thredbo,week10,2023,3.7333333333333334
+367,Thredbo,week10,2024,4.555555555555555
+368,Thredbo,week10,2025,4.55
+369,Thredbo,week11,2019,4.34375
+370,Thredbo,week11,2020,4.75
+371,Thredbo,week11,2021,5.0
+372,Thredbo,week11,2022,4.421052631578948
+373,Thredbo,week11,2023,4.428571428571429
+374,Thredbo,week11,2024,3.909090909090909
+375,Thredbo,week11,2025,4.357142857142857
+376,Thredbo,week12,2019,4.285714285714286
+377,Thredbo,week12,2020,4.363636363636363
+378,Thredbo,week12,2021,5.0
+379,Thredbo,week12,2022,4.5
+380,Thredbo,week12,2023,4.75
+381,Thredbo,week12,2024,4.888888888888889
+382,Thredbo,week12,2025,4.0
+383,Thredbo,week13,2019,4.425
+384,Thredbo,week13,2020,4.4375
+385,Thredbo,week13,2021,5.0
+386,Thredbo,week13,2022,4.2727272727272725
+387,Thredbo,week13,2023,4.0
+388,Thredbo,week13,2024,4.090909090909091
+389,Thredbo,week14,2019,4.607142857142857
+390,Thredbo,week14,2020,4.75
+391,Thredbo,week14,2021,5.0
+392,Thredbo,week14,2022,4.6923076923076925
+393,Thredbo,week14,2023,4.8
+394,Thredbo,week14,2024,4.0
+395,Thredbo,week15,2019,4.454545454545454
+396,Thredbo,week15,2020,5.0
+397,Thredbo,week15,2022,4.375
+398,Thredbo,week15,2023,3.7142857142857144
+399,Thredbo,week15,2024,4.5
+400,Thredbo,week2,2019,4.642857142857143
+401,Thredbo,week2,2020,5.0
+402,Thredbo,week2,2021,4.529411764705882
+403,Thredbo,week2,2022,4.833333333333333
+404,Thredbo,week2,2023,4.285714285714286
+405,Thredbo,week2,2024,4.0
+406,Thredbo,week2,2025,4.777777777777778
+407,Thredbo,week3,2019,4.428571428571429
+408,Thredbo,week3,2020,5.0
+409,Thredbo,week3,2021,4.125
+410,Thredbo,week3,2022,4.25
+411,Thredbo,week3,2023,4.333333333333333
+412,Thredbo,week3,2024,5.0
+413,Thredbo,week3,2025,5.0
+414,Thredbo,week4,2019,4.517241379310345
+415,Thredbo,week4,2020,4.714285714285714
+416,Thredbo,week4,2021,3.1666666666666665
+417,Thredbo,week4,2022,4.2
+418,Thredbo,week4,2023,4.333333333333333
+419,Thredbo,week4,2024,4.625
+420,Thredbo,week4,2025,4.523809523809524
+421,Thredbo,week5,2019,4.392857142857143
+422,Thredbo,week5,2020,4.230769230769231
+423,Thredbo,week5,2021,4.75
+424,Thredbo,week5,2022,4.473684210526316
+425,Thredbo,week5,2023,4.416666666666667
+426,Thredbo,week5,2024,4.090909090909091
+427,Thredbo,week5,2025,4.066666666666666
+428,Thredbo,week6,2019,4.5675675675675675
+429,Thredbo,week6,2020,4.666666666666667
+430,Thredbo,week6,2021,4.181818181818182
+431,Thredbo,week6,2022,4.363636363636363
+432,Thredbo,week6,2023,4.32
+433,Thredbo,week6,2024,4.541666666666667
+434,Thredbo,week6,2025,4.166666666666667
+435,Thredbo,week7,2019,4.542857142857143
+436,Thredbo,week7,2020,4.24
+437,Thredbo,week7,2021,5.0
+438,Thredbo,week7,2022,4.4
+439,Thredbo,week7,2023,4.6
+440,Thredbo,week7,2024,4.523809523809524
+441,Thredbo,week7,2025,4.28
+442,Thredbo,week8,2019,4.3076923076923075
+443,Thredbo,week8,2020,4.041666666666667
+444,Thredbo,week8,2021,4.0
+445,Thredbo,week8,2022,4.7727272727272725
+446,Thredbo,week8,2023,4.428571428571429
+447,Thredbo,week8,2024,4.5
+448,Thredbo,week8,2025,4.4
+449,Thredbo,week9,2019,4.410256410256411
+450,Thredbo,week9,2020,4.5
+451,Thredbo,week9,2021,3.8
+452,Thredbo,week9,2022,4.6923076923076925
+453,Thredbo,week9,2023,4.625
+454,Thredbo,week9,2024,4.6
+455,Thredbo,week9,2025,4.0
